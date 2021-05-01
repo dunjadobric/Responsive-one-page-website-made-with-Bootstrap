@@ -1,0 +1,1 @@
+Responsive one page website made with Bootstrap 5.0 with addition of media queries for x-small devices.
